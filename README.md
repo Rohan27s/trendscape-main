@@ -13,7 +13,7 @@ Trendscape is a feature-rich e-commerce platform designed to provide users with 
 
 ### Backend
 - **Node.js Express:** Powering backend operations seamlessly.
-- **MongoDB:** Serving as the reliable database for storing critical data such as products, users, and orders.
+- **MongoDB:** Serving as a reliable database for storing critical data such as products, users, and orders.
 - **Redux:** Streamlining state management for a fluid user journey.
 
 ### Admin Dashboard
@@ -50,7 +50,8 @@ Trendscape is a feature-rich e-commerce platform designed to provide users with 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the frontend, backend, and admin dashboard separately.
-4. Access the main website at [Main Website](https://lnkd.in/gpm5eR56) and the admin dashboard at [Admin Dashboard](https://lnkd.in/gNZjwsiy).
+4. Access the main website at [Main Website](trendscape.vercel.app) and the admin dashboard at [Admin Dashboard](https://trendscape-admin.vercel.app/).
+5. Admin email - admin@trendscape.com, Password - admin1234
 
 ## Contributing
 
