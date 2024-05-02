@@ -50,7 +50,7 @@ Trendscape is a feature-rich e-commerce platform designed to provide users with 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the frontend, backend, and admin dashboard separately.
-4. Access the main website at [Main Website](trendscape.vercel.app) and the admin dashboard at [Admin Dashboard](https://trendscape-admin.vercel.app/).
+4. Access the main website at [Main Website](https://trendscape.vercel.app/) and the admin dashboard at [Admin Dashboard](https://trendscape-admin.vercel.app/).
 5. Admin email - admin@trendscape.com, Password - admin1234
 
 ## Contributing
